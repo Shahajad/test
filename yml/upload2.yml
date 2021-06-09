@@ -1,0 +1,9 @@
+## document starts below
+---
+key: "value" # mapping
+   # A list of two items
+list: 
+  - "item 1" # first value
+  - "item 2" # second value
+---
+## end of document
